@@ -1,0 +1,30 @@
+@media print
+{
+html
+{
+	background-color:white;
+	background-image:none;
+}
+
+body
+{
+	background-color:white;
+	color:black;
+	font-family:serif;
+}
+
+nav
+{
+	display:none;
+}
+
+header
+{
+	display:none;
+}
+
+footer
+{
+	display:none;
+}
+}

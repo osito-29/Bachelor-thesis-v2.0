@@ -1,0 +1,149 @@
+html
+{
+	background-color:darkred;
+	background-image:url("/images/background.jpg");
+}
+
+body
+{	
+	background-color:white;
+	width:80%;
+	max-width:1000px;
+	min-width:500px;
+	padding:10px 20px 20px 20px; 
+	margin:20px auto;
+	border:0px dotted  gray;
+	box-shadow:0 0 30px black;
+	
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 2.5em;
+}
+
+h2
+{
+	text-align: center;
+	font-size: 2em;
+}
+
+h3
+{
+	text-align: left;
+	font-size: 1.5em;
+}
+
+
+p
+{
+	text-align: justify;
+	font-size: 1em;
+}
+
+table, td, th
+{
+	border: 2px solid black;
+	border-collapse: collapse;
+	text-align: left;
+}
+
+thead
+{
+	background: lightgreen;
+	color: gray;
+}
+
+.table thead th
+{
+	border: 2px solid gray;
+	color: black;
+}
+
+.table th, .table td
+{
+	border: 2px solid gray;
+}
+
+img, video
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%
+}
+figcaption
+{
+	font-weight: bold;
+	text-align: center;
+}
+hr
+{
+	background-color: black;
+	height: 1.5px;
+	
+}
+
+
+a:link
+{
+	color: darkblue;
+	text-decoration: underline;
+}
+
+a:visited
+{
+	color: magenta;
+}
+
+a:hover
+{
+	color: green;
+}
+
+a:active
+{
+	color: darkblue;
+}
+
+
+.navbar-brand:link
+{
+	text-decoration:none;
+}
+
+.nav-link:link
+{
+	text-decoration:none;
+}
+
+.form-control
+{
+	border: 2px solid gray;
+}
+
+caption
+{
+	color: black;
+}
+
+#normal
+{
+	color: yellow;
+}
+
+#kontrasztos
+{
+	color: yellow;
+}
+
+form
+{
+	display: table;
+}
+.form p
+{
+	display: table-row
+}

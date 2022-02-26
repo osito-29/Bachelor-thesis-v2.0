@@ -1,0 +1,22 @@
+{
+    "timestamp": "20211201-110022",
+    "username": "testusername",
+    "width": "100",
+    "height": "90",
+    "resolution": "10",
+    "starttemp": "25",
+    "calctype": "bytime",
+    "conductivity": "100",
+    "density": "10000",
+    "heatcapacity": "0.1",
+    "toptemp": "20",
+    "bottomtemp": "200",
+    "lefttemp": "20",
+    "righttemp": "200",
+    "heatingtemp": "100",
+    "heatsource_X": "20",
+    "heatsource_Y": "30",
+    "duration": "15",
+    "calctime": "15",
+    "tolerance": "0.1"
+}

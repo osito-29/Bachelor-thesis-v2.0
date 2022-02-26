@@ -1,0 +1,99 @@
+@media screen
+
+{
+	
+html
+{
+	background-color:black;
+	background-image:none;
+}
+
+body
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:200%;
+	background-color:black;
+	color:yellow
+}
+
+a:link
+{
+	color: white;
+}
+
+a:visited
+{
+	color: orange;
+
+}
+
+a:hover
+{
+	color: yellow;
+}
+
+a:active
+{
+	color: yellow;
+}
+
+hr
+{
+	background-color: yellow;
+}
+
+
+table, td, th
+{
+	border: 2px solid black;
+	border-collapse: collapse;
+	text-align: left;
+}
+
+thead
+{
+	background: black;
+}
+
+.table
+{
+	color: white;
+}
+
+.table thead th
+{
+	border: 2px solid yellow;
+	color: white;
+}
+
+.table th, .table td
+{
+	border: 2px solid yellow;
+}
+
+}
+
+caption
+{
+	color: white;
+}
+
+.navbar-dark .navbar-brand
+{
+	color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link
+{
+	color: white;
+}
+
+.navbar-brand
+{
+	font-size: 150%;
+}
+
+#kontrasztos
+{
+	display: none;
+}
